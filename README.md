@@ -2,7 +2,7 @@
 <h3 align="center">Pre-final year CSE student | Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **JavaScript project**
-- 🌱 I’m currently learning **Data Structures & Algorithms using JavaScript**
+- 🌱 I’m currently learning **Data Structures & Algorithms using Python**
 - 🤝 I’m looking to collaborate on **Frontend Projects and Problem Solving**
 - 💬 Ask me about **HTML, CSS, JavaScript, and DSA**
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/devisri-v-e-a046372bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
