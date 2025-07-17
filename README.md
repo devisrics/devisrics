@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devisri</h1>
-<h3 align="center">Pre-final year CSE student | Aspiring Full Stack Developer</h3>
+<h3 align="center">Final year CSE student | Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **JavaScript project**
 - 🌱 I’m currently learning **Data Structures & Algorithms using Python**
