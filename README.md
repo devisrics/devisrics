@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Devisri V E
 
-### 💻 Frontend Developer | Python Programmer | CSE Final year student
+### 💻 Frontend Developer | Python Programmer | CSE Undergraduate
 
 I am a Computer Science and Engineering student at Anna University (UCE Panruti, Cuddalore) passionate about building user-focused web solutions and strengthening my programming foundations daily.
 
@@ -8,7 +8,7 @@ I am a Computer Science and Engineering student at Anna University (UCE Panruti,
 
 ### 🚀 **What I'm Currently Doing**
 
-- 🌱 Learning **Data Structures and Algorithms using JavaScript** for problem-solving
+- 🌱 Learning **Data Structures and Algorithms using python** for problem-solving
 - 🐍 Practicing **Python programming on HackerRank** (Python Basic Certificate holder)
 - 💡 Developing **frontend projects** to enhance practical skills in HTML, CSS, JavaScript, and React
 - 📚 Exploring **Operating Systems** and **Object-Oriented Programming**
@@ -25,6 +25,9 @@ I am a Computer Science and Engineering student at Anna University (UCE Panruti,
 
 - ⚡ **Legacy JavaScript Algorithms and Data Structures** – FreeCodeCamp, July 2025  
   _Strengthened algorithmic thinking with Functional Programming and OOP_
+
+- 🐍 **Python Exercises for Beginners: Solve 100+ Coding Challenges** – Udemy, July 2025  
+  _Completed 11 hours of practical coding challenges to reinforce Python problem-solving skills_
 
 ---
 
