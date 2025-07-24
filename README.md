@@ -1,43 +1,61 @@
-<h1 align="center">Hi 👋, I'm Devisri</h1>
-<h3 align="center">Final year CSE student | Aspiring Full Stack Developer</h3>
+# 👋 Hi there, I'm Devisri V E
 
-- 🔭 I’m currently working on **JavaScript project**
-- 🌱 I’m currently learning **Data Structures & Algorithms using Python**
-- 🤝 I’m looking to collaborate on **Frontend Projects and Problem Solving**
-- 💬 Ask me about **HTML, CSS, JavaScript, and DSA**
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/devisri-v-e-a046372bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
-- ⚡ Fun fact **I enjoy exploring new frameworks and building mini projects for concept clarity.**
+### 💻 Frontend Developer | Python Programmer | CSE Undergrad
+
+I am a Computer Science and Engineering student at Anna University (UCE Panruti, Cuddalore) passionate about building user-focused web solutions and strengthening my programming foundations daily.
 
 ---
 
-### 🚀 Languages and Tools:
+### 🚀 **What I'm Currently Doing**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+- 🌱 Learning **Data Structures and Algorithms using JavaScript** for problem-solving
+- 🐍 Practicing **Python programming on HackerRank** (Python Basic Certificate holder)
+- 💡 Developing **frontend projects** to enhance practical skills in HTML, CSS, JavaScript, and React
+- 📚 Exploring **Operating Systems** and **Object-Oriented Programming**
 
 ---
 
-### 💻 IDEs and Tools I use:
+### 🏆 **Certifications**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+- 🐍 **Python (Basic)** – HackerRank, 2025  
+  _Proficiency in syntax, functions, control flow, classes, and objects_
+
+- 💻 **Responsive Web Design Developer** – FreeCodeCamp, May 2025  
+  _Projects built: Survey Form, Tribute Page, Technical Documentation, Product Landing, Personal Portfolio_
+
+- ⚡ **Legacy JavaScript Algorithms and Data Structures** – FreeCodeCamp, July 2025  
+  _Strengthened algorithmic thinking with Functional Programming and OOP_
 
 ---
 
-### 💻 Workspace Specs:
+### 💼 **Internship**
 
-- 💻 **Windows 10 PC**
-- 💻 **Using Chrome Browser**
+**Python Intern** – CodSoft (Remote) | Oct 2024  
+- Developed Python projects strengthening programming fundamentals
 
+---
 
-⭐️ From [Devisri](https://github.com/devisrics)
+### 🌟 **Projects**
 
+- **Local Service Community Provider (2025)**  
+  Developed a web-based platform connecting local service providers (plumbing, electrical work, tutoring) with community members to streamline service requests, improve provider visibility, and enhance trust within the locality.
+
+---
+
+### 🛠️ **Technologies & Tools**
+
+- **Languages**: HTML, CSS, JavaScript, React.js, Python  
+- **Tools**: GitHub, Microsoft Office, Canva
+
+---
+
+### 📫 **Connect with me**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/devisri-v-e-a046372bb)
+- 🗂️ [Resume](https://github.com/devisrics) _(See pinned for projects & learning progress)_
+
+---
+
+> **“Learning by building. Solving by understanding.”**
+
+_Thank you for visiting my GitHub!_
