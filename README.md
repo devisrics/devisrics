@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Devisri V E
 
-### 💻 Frontend Developer | Python Programmer | CSE Undergrad
+### 💻 Frontend Developer | Python Programmer | CSE Final year student
 
 I am a Computer Science and Engineering student at Anna University (UCE Panruti, Cuddalore) passionate about building user-focused web solutions and strengthening my programming foundations daily.
 
