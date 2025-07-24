@@ -55,7 +55,7 @@ I am a Computer Science and Engineering student at Anna University (UCE Panruti,
 ### 📫 **Connect with me**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devisri-v-e-a046372bb)
-- 🗂️ [Resume](https://github.com/devisrics) _(See pinned for projects & learning progress)_
+
 
 ---
 
