@@ -8,11 +8,11 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 
 ## 🚀 What I’m Currently Learning & Practicing
 
+- 💡 Building **Full stack (MERN STACK) Projects**
 - 🌱 **Data Structures & Algorithms using Python**
 - 🧠 Solving coding problems on **LeetCode and HackerRank**
-- 💡 Building **web development projects**
 - 📚 Strengthening **Core CS subjects** like OOPS, Operating Systems, DBMS, and Computer Networks
-- 🔧 Improving **JavaScript and React fundamentals**
+- 🔧 Improving **JavaScript,React and backend fundamentals**
 
 ---
 
@@ -25,14 +25,14 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - **APIs:** REST APIs (basic understanding)
 
 ### 🧠 Programming & Fundamentals
-- **Languages:** Python, JavaScript
-- **Core Concepts:** Object-Oriented Programming (OOPS)
+- **Languages:** Python
 - **DSA:** Practicing Data Structures & Algorithms using Python
 
 ### 🛠 Tools
 - Git & GitHub  
 - VS Code  
-- Postman  
+- Postman
+### 💻 Coding Platform
 - LeetCode, HackerRank  
 
 ---
