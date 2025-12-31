@@ -1,64 +1,82 @@
-# 👋 Hi there, I'm Devisri V E
+# 👋 Hi, I'm Devisri V E
 
-### 💻 Frontend Developer | Python Programmer | CSE Undergraduate
+### 🎓 CSE Student | Entry-Level Software & Web Developer
 
-I am a Computer Science and Engineering student at Anna University (UCE Panruti, Cuddalore) passionate about building user-focused web solutions and strengthening my programming foundations daily.
-
----
-
-### 🚀 **What I'm Currently Doing**
-
-- 🌱 Learning **Data Structures and Algorithms using python** for problem-solving
-- 🐍 Practicing **Python programming on HackerRank** (Python Basic Certificate holder)
-- 💡 Developing **frontend projects** to enhance practical skills in HTML, CSS, JavaScript, and React
-- 📚 Exploring **Operating Systems** and **Object-Oriented Programming**
+I am a **final-year Computer Science and Engineering student at Anna University (University College of Engineering, Panruti – Cuddalore)**. I am interested in **software development and web development**, and I focus on building strong fundamentals through **projects, problem-solving, and continuous learning**.
 
 ---
 
-### 🏆 **Certifications**
+## 🚀 What I’m Currently Learning & Practicing
 
-- 🐍 **Python (Basic)** – HackerRank, 2025  
-  _Proficiency in syntax, functions, control flow, classes, and objects_
-
-- 💻 **Responsive Web Design Developer** – FreeCodeCamp, May 2025  
-  _Projects built: Survey Form, Tribute Page, Technical Documentation, Product Landing, Personal Portfolio_
-
-- ⚡ **Legacy JavaScript Algorithms and Data Structures** – FreeCodeCamp, July 2025  
-  _Strengthened algorithmic thinking with Functional Programming and OOP_
-
-- 🐍 **Python Exercises for Beginners: Solve 100+ Coding Challenges** – Udemy, July 2025  
-  _Completed 11 hours of practical coding challenges to reinforce Python problem-solving skills_
+- 🌱 **Data Structures & Algorithms using Python**
+- 🧠 Solving coding problems on **LeetCode and HackerRank**
+- 💡 Building **web development projects**
+- 📚 Strengthening **Core CS subjects** like OOPS, Operating Systems, DBMS, and Computer Networks
+- 🔧 Improving **JavaScript and React fundamentals**
 
 ---
 
-### 💼 **Internship**
+## 💻 Technical Skills
 
-**Python Intern** – CodSoft (Remote) | Oct 2024  
-- Developed Python projects strengthening programming fundamentals
+### 🌐 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js
+- **Backend (Basics):** Node.js, Express.js
+- **Database (Basics):** MongoDB, SQL
+- **APIs:** REST APIs (basic understanding)
 
----
+### 🧠 Programming & Fundamentals
+- **Languages:** Python, JavaScript
+- **Core Concepts:** Object-Oriented Programming (OOPS)
+- **DSA:** Practicing Data Structures & Algorithms using Python
 
-### 🌟 **Projects**
-
-- **Local Service Community Provider (2025)**  
-  Developed a web-based platform connecting local service providers (plumbing, electrical work, tutoring) with community members to streamline service requests, improve provider visibility, and enhance trust within the locality.
-
----
-
-### 🛠️ **Technologies & Tools**
-
-- **Languages**: HTML, CSS, JavaScript, React.js, Python  
-- **Tools**: GitHub, Microsoft Office, Canva
-
----
-
-### 📫 **Connect with me**
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/devisri-v-e-a046372bb)
-
+### 🛠 Tools
+- Git & GitHub  
+- VS Code  
+- Postman  
+- LeetCode, HackerRank  
 
 ---
 
-> **“Learning by building. Solving by understanding.”**
+## 💼 Internship Experience
 
-_Thank you for visiting my GitHub!_
+### 🔹 Web Development Intern — NLC India Limited *(July 2025)*
+- Developed responsive user interfaces using **HTML, CSS, Bootstrap, and React**
+- Worked with **Node.js and Express.js APIs** for backend integration
+- Gained experience in **REST APIs and Git version control**
+
+### 🔹 Python Intern — CodSoft *(Remote | Oct 2024)*
+- Developed Python programs to improve **logic building and problem-solving**
+- Worked on **control flow, data handling, and modular programming**
+
+---
+
+## 🌟 Projects
+
+### 🔹 Local Service Community Provider
+A web-based application connecting **local service providers** with users.
+
+- Frontend: React.js, Bootstrap  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+
+---
+
+## 🎯 Career Objective
+
+I am seeking **entry-level Software Developer or Web Developer roles** where I can:
+- Apply my academic knowledge and project experience
+- Learn from experienced professionals
+- Improve my development and problem-solving skills
+- Grow as a software engineer
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/devisri-v-e-a046372bb  
+
+---
+
+> **“Learning step by step. Building with purpose.”**
+
+⭐ Thank you for visiting my GitHub profile!
