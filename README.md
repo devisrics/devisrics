@@ -22,7 +22,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js
 - **Backend (Basics):** Node.js, Express.js
 - **Database (Basics):** MongoDB, SQL
-- **APIs:** REST APIs (basic understanding)
+- **Cloud Deployment:** AWS (EC2)
 
 ### 🧠 Programming & Fundamentals
 - **Languages:** Python
@@ -32,6 +32,9 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - Git & GitHub  
 - VS Code  
 - Postman
+- Thunder Client
+- MS Office
+- Ca
 ### 💻 Coding Platform
 - LeetCode, HackerRank  
 
