@@ -34,7 +34,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - Postman
 - Thunder Client
 - MS Office
-- Ca
+- Canva
 ### 💻 Coding Platform
 - LeetCode, HackerRank  
 
