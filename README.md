@@ -39,6 +39,18 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - LeetCode, HackerRank  
 
 ---
+## 📜 Certifications
+
+**TCS iON NQT – Cognitive**  
+[TCS iON](assets/TCS_iON_logo.png)
+
+**Skills Assessed:**  
+- Aptitude  
+- Logical Reasoning  
+- Verbal Ability  
+
+**Score:** 56.07
+---
 
 ## 💼 Internship Experience
 
