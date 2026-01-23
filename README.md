@@ -49,7 +49,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - Logical Reasoning  
 - Verbal Ability  
 
-**Score:** 56.07
+**Score:56.07**
 
 ---
 
