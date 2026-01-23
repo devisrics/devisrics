@@ -12,7 +12,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - 🌱 **Data Structures & Algorithms using Python**
 - 🧠 Solving coding problems on **LeetCode and HackerRank**
 - 📚 Strengthening **Core CS subjects** like OOPS, Operating Systems, DBMS, and Computer Networks
-- 🔧 Improving **JavaScript,React and backend fundamentals**
+- 🔧 Improving **JavaScript,React and Backend**
 
 ---
 
