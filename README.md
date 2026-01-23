@@ -42,14 +42,9 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 
 ## 📜 Certifications
 
-**TCS iON NQT – Cognitive**    
-
-**Skills Assessed:**  
-- Aptitude  
-- Logical Reasoning  
-- Verbal Ability  
-
-**Score:** 56.07 **%**
+**TCS iON NQT – Cognitive**  
+**Skills Assessed:** Aptitude, Logical Reasoning, Verbal Ability  
+**Status:** Successfully completed the assessment
 
 ---
 
