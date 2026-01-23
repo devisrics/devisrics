@@ -42,8 +42,8 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 
 ## 📜 Certifications
 
-**TCS iON NQT – Cognitive**  
-[TCS iON](assets/TCS_iON_logo.png)
+**TCS iON NQT – Cognitive**    
+![TCS iON](https://upload.wikimedia.org/wikipedia/en/thumb/1/12/TCS_ION_Logo.svg/1200px-TCS_ION_Logo.svg.png)  
 
 **Skills Assessed:**  
 - Aptitude  
