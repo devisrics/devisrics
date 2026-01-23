@@ -39,6 +39,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - LeetCode, HackerRank  
 
 ---
+
 ## 📜 Certifications
 
 **TCS iON NQT – Cognitive**  
@@ -50,6 +51,7 @@ I am a **final-year Computer Science and Engineering student at Anna University 
 - Verbal Ability  
 
 **Score:** 56.07
+
 ---
 
 ## 💼 Internship Experience
